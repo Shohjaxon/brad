@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://user:AHoa2kC7sxE53V3h@cluster0.lrfs7.mongodb.net/works-up",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "Iv1.ec9d6d09759efccb",
-  "githubSecret": "c376a545ae4ee0b3b59cbc0989b1d2b4bbbdd2b5"
-}
